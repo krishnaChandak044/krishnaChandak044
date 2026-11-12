@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Krishna Chandak</title>
+  <desc id="desc">Backend developer building thoughtful systems and dependable APIs</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172d43"/></linearGradient>
+    <linearGradient id="accent" x2="1"><stop stop-color="#48d6c5"/><stop offset="1" stop-color="#66a9ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="63" y="56" width="8" height="188" rx="4" fill="url(#accent)"/>
+  <text x="101" y="118" fill="#eaf3ff" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5">Krishna Chandak</text>
+  <text x="103" y="165" fill="#8ee3db" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="2">BACKEND DEVELOPER</text>
+  <text x="103" y="211" fill="#b8c9da" font-family="Arial,Helvetica,sans-serif" font-size="20">Thoughtful systems. Dependable APIs. Real-world impact.</text>
+  <g fill="none" stroke="#72b9d7" stroke-opacity=".4" stroke-width="2">
+    <path d="M895 67h95l49 49v83l-49 49h-95l-49-49v-83z"/>
+    <path d="M895 67v181M990 67v181M846 116h193M846 199h193"/>
+    <circle cx="895" cy="67" r="7" fill="#48d6c5" stroke="none"/><circle cx="1039" cy="116" r="7" fill="#66a9ff" stroke="none"/><circle cx="990" cy="248" r="7" fill="#48d6c5" stroke="none"/>
+  </g>
+  <rect x="16" y="16" width="1168" height="268" rx="12" fill="none" stroke="#78a9c0" stroke-opacity=".18"/>
+</svg>
