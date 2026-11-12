@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Krishna Chandak — backend engineering and dependable APIs" width="100%" />
-
-  <p><strong>Backend Developer · Python / FastAPI / Django · Pune, India</strong></p>
+  <img src="assets/portrait-banner.svg" alt="Stylized portrait of Krishna Chandak with backend developer profile" width="100%" />
   <p>
     <a href="https://www.linkedin.com/in/krishna-chandak04/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:krishnachandak444@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email Krishna" /></a>
@@ -26,9 +24,22 @@ Community      →  AWS DevSecOps User Group Pune · MLSA PCU · GDG Pune
 ### Contribution graph
 
 <div align="center">
-  <a href="https://github.com/krishnaChandak044?tab=overview"><img src="assets/contributions.svg" alt="Krishna's GitHub contributions over the last year" width="100%" /></a>
-  <sub>Updated daily from GitHub's contribution calendar · select the graph to view activity on GitHub</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaChandak044/krishnaChandak044/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishnaChandak044/krishnaChandak044/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/krishnaChandak044/krishnaChandak044/output/snake-light.svg" alt="Animated snake weaving through Krishna's GitHub contribution calendar" width="100%" />
+  </picture>
+  <sub>Live contribution animation · refreshed every 12 hours</sub>
 </div>
+
+<details>
+<summary>View the detailed contribution heatmap</summary>
+
+<br />
+
+<a href="https://github.com/krishnaChandak044?tab=overview"><img src="assets/contributions.svg" alt="Krishna's GitHub contributions over the last year" width="100%" /></a>
+
+</details>
 
 ### Stack & tools
 
