@@ -23,6 +23,24 @@ Working style  →  clear contracts · explicit failure states · tests around c
 Community      →  AWS DevSecOps User Group Pune · MLSA PCU · GDG Pune
 ```
 
+### Contribution graph
+
+<div align="center">
+  <a href="https://github.com/krishnaChandak044?tab=overview"><img src="assets/contributions.svg" alt="Krishna's GitHub contributions over the last year" width="100%" /></a>
+  <sub>Updated daily from GitHub's contribution calendar · select the graph to view activity on GitHub</sub>
+</div>
+
+### Stack & tools
+
+<div align="center">
+  <p><strong>Backend and data</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis&theme=dark" alt="Python, FastAPI, Django, Flask, PostgreSQL, and Redis" />
+  <p><strong>Interfaces and delivery</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,docker,aws,git,githubactions,linux&theme=dark&perline=8" alt="TypeScript, React, Next.js, Docker, AWS, Git, GitHub Actions, and Linux" />
+</div>
+
+<br />
+
 ### Selected work
 
 | Project | What I built | Engineering focus |
@@ -50,17 +68,14 @@ At **Sarva Suvidhaen**, my backend work included Django services, a centralized 
 
 Some professional systems are private, so the public repositories above are the best places to inspect implementation details. For more on my experience, see [LinkedIn](https://www.linkedin.com/in/krishna-chandak04/).
 
-### Toolbox
-
-| Area | Tools and practices |
-| :-- | :-- |
-| **Backend** | Python · FastAPI · Django · Flask · REST APIs · Pydantic |
-| **Data and async work** | SQL · SQLAlchemy · PostgreSQL · SQLite · Celery · Redis |
-| **Product surfaces** | TypeScript · React · Next.js · React Native |
-| **Delivery** | Git · Docker · Linux · Pytest · API documentation · CI/CD fundamentals |
-
 ### Let's connect
 
-I enjoy working with people who care about useful products and sound engineering. If you have an interesting backend problem, an open source collaboration, or a thoughtful technical discussion, [connect on LinkedIn](https://www.linkedin.com/in/krishna-chandak04/) or [send me an email](mailto:krishnachandak444@gmail.com).
+I enjoy working with people who care about useful products and sound engineering. If you have an interesting backend problem, an open source collaboration, or a thoughtful technical discussion, I'd love to hear from you.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/krishna-chandak04/"><img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Krishna on LinkedIn" /></a>
+  <a href="mailto:krishnachandak444@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20conversation-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Krishna" /></a>
+  <a href="https://github.com/krishnaChandak044?tab=repositories"><img src="https://img.shields.io/badge/Explore-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore Krishna's repositories" /></a>
+</div>
 
 <div align="center"><sub>Explore the repositories for implementation details, tests, and each project's current limitations.</sub></div>
